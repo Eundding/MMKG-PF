@@ -1,0 +1,15 @@
+
+[EVAL on TEST @ K=5]
+Hit@5:     0.6688
+nDCG@5:    0.2537
+Recall@5:  0.1000
+
+[EVAL on TEST @ K=10]
+Hit@10:     0.8027
+nDCG@10:    0.2510
+Recall@10:  0.1661
+
+[EVAL on TEST @ K=20]
+Hit@20:     0.8953
+nDCG@20:    0.2670
+Recall@20:  0.2634
